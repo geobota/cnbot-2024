@@ -1,0 +1,53 @@
+project:
+  type: website
+
+lang: pt
+date-format: iso
+
+execute:
+    freeze: auto
+
+website:
+  title: "GEOBOTA no 74° Congresso Nacional de Botânica"
+  description: "GEOBOTA no 74° Congresso Nacional de Botânica"
+  site-url: https://geobota.github.io/cnbot-2024
+  repo-url: https://github.com/geobota/cnbot-2024
+
+  page-navigation: true
+  back-to-top-navigation: true
+  bread-crumbs: true
+
+  google-analytics:
+    tracking-id: "G-20YBPHCP38"
+    anonymize-ip: true
+
+  twitter-card:
+    card-style: summary_large_image
+
+  open-graph: true
+
+  navbar:
+    logo: images/placeholder.png
+    right:
+      - text: "Início"
+        href: index.qmd
+      - text: "74º CNBot"
+        href: https://74cnbot.softaliza.com.br/
+      - text: "GEOBOTA"
+        href: http://geobota.github.io/
+      - icon: facebook
+        href: https://www.facebook.com/geobotaudea/
+      - icon: instagram
+        href: https://www.instagram.com/geobotaudea/
+      - icon: github
+        href: https://github.com/geobota/cnbot-2024/
+        
+
+  page-footer:
+    center: Made by [\@alexespinocaco](https://alexespinosaco.github.io) with [![](https://www.r-project.org/logo/Rlogo.svg){fig-alt="R" width=21px}](https://www.r-project.org/) and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

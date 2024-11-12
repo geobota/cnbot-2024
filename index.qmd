@@ -1,0 +1,69 @@
+---
+title: "Indumento em Clusiaceae: novos relatos em lâminas foliares e sua utilidade taxonômica"
+author:
+  - name: "Angy Vanesa Caro-Sánchez"
+    email: angy.caro@udea.edu.co
+    affiliation:
+      - id: udea
+        name: "Universidad de Antioquia, Medellín, Colombia"
+    orcid: 0000-0001-8751-7931
+    # url: /people/caro-sanchez-angy-vanesa/index.qmd
+  - name: "Lucas Cardoso Marinho"
+    email: lc.marinho@ufma.br
+    affiliation: "Universidade Federal do Maranhão"
+    orcid: 0000-0003-1263-3414
+  - name: "Manuel Luján"
+    email: m.lujan@kew.org
+    affiliation: "Kew Royal Botanic Gardens, Londres, Reino Unido"
+    orcid: 0000-0001-6822-7269
+  - name: "Jose Miguel Rojas-Villa"
+    email: miguel.rojas4@udea.edu.co
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-6656-9932
+    # url: /people/rojas-villa_jose-miguel/index.qmd
+  - name: "Fernando Alveiro Alzate-Guarin"
+    email: alveiro.alzate@udea.edu.co
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-4916-8897
+    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+date: "2024-11-11"
+
+categories:
+  - Anatomia
+  - Biodiversidade da Colômbia
+  - SEM
+  - Tribo Clusieae
+
+# draft: true
+bibliography: references.bib
+csl: apa.csl
+nocite: |
+  @luján2018; @marinho2016; @vasquez2009; @hewson_plant_1988; @wurdack_atlas_1986
+---
+
+## Resumo
+
+As espécies da família Clusiaceae são caracterizadas por apresentarem lâminas foliares glabras e, até o momento, a presença de indumento havia sido reportada apenas para as lâminas foliares de *Clusia hirsuta* Hammel e *Chrysochlamys chrisharonii* Vásquez & R. Rojas, ambas endêmicas das florestas úmidas tropicais da região Andina da Colômbia e Peru, respectivamente. Durante a revisão taxonômica de *Chrysochlamys* para a Colômbia, nós encontramos 11 morfoespécies de Clusiaceae com indumento em suas lâminas. Para descrever a morfologia externa e anatomia desses tipos de indumento, fizemos observações em estereoscópios, cortes histológicos e obtivemos imagens em microscopia de varredura. Descobrimos que dez das espécies são encontradas na região ocidental, uma na região central dos Andes e outra em ambas as regiões. Sete espécies pertencem ao gênero *Chrysochlamys*, uma à *Clusia* e três, embora sejam Clusiaceae, ainda não foram atribuídas a nenhum dos dois gêneros. Neste trabalho descrevemos lâminas foliares com indumentos de tipo simples unicelular, multicelular simples, dendríticos, glandulares e papilares. Além disso, observamos que em algumas espécies podem ser encontrados entre dois e três tipos de indumentos em uma mesma folha. Estes indumentos estão associados às nervuras primária e secundária e, em alguns deles, também podem ser encontrados no tecido epidérmico da lâmina. Nossos resultados demonstram que o estudo de caracteres vegetativos em Clusiaceae tem grande potencial para resolução taxonômica dentro da família, mesmo quando são relatados como de ocorrência rara. A presença dos tricomas em *Chrysochlamys* é um caráter a mais para distinguí-lo de *Tovomitopsis*, gênero filogeneticamente distante, mas com morfologia muito similar. A presença de indumento é um caráter compartilhado entre *Clusia* e *Chrysochlamys*, no entanto, ainda são necessárias análises filogenéticas mais robustas para assegurar que a presença destes tricomas seja sinapomórfico do clado Clusia-Chrysochlamys.
+
+**Figura 1:** Imagens SEM dos diferentes tipos de indumento na superfície das folhas de espécies de Clusiaceae. **A.** Cristas papilares na veia média de *Chrysochlamys spnov3* **B.** Diferentes tipos de indumento na veia média de *Chrysochlamys sp1* **C.** Aparentes glândulas de talos curtos com cabeças alongadas de nas secundarias de Clusiaceae spnov1 **D.** Tricomas dendríticos sobre tecido laminar de *Chrysochlamys sp2* **E.** Papilas em tecido de Clusiaceae spnov2 **F.** Tricomas dendríticos com eixo curto e número de braços pouco-moderado em tecido de Clusiaceae spnov2 **G.** Tricomas simples em veia secundária de *Chrysochlamys spnov4* **H.** Tricomas multicelular simples e dendríticos na veia média e tecido laminar de *Chrysochlamys spnov5*.
+
+**Apoio:** Minciencias, Colombia.
+
+## Bibliografia
+
+::: {#refs}
+:::
+
+## PDF
+
+```{=html}
+<object data="CNBot_clusiaceae_tricomas.pdf" type="application/pdf" width="800" height="1100">
+    <p>Parece que você não tem um plug-in de PDF para esse navegador.
+    Não há problema… você pode <a href="CNBot_clusiaceae_tricomas.pdf">clicar aqui 
+    para fazer o download do arquivo PDF.</a></p>
+</object>
+```
+
+<!-- ## Citación -->
