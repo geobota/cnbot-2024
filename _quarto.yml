@@ -12,6 +12,7 @@ website:
   description: "GEOBOTA no 74° Congresso Nacional de Botânica"
   site-url: https://geobota.github.io/cnbot-2024
   repo-url: https://github.com/geobota/cnbot-2024
+  image: images/logo/geobota_logo.png
 
   page-navigation: true
   back-to-top-navigation: true
@@ -50,4 +51,4 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: false
+    toc: true
