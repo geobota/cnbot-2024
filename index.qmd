@@ -6,28 +6,33 @@ author:
     affiliation:
       - id: udea
         name: "Universidad de Antioquia, Medellín, Colombia"
+        affiliation-url: https://geobota.github.io/
     orcid: 0000-0001-8751-7931
-    # url: /people/caro-sanchez-angy-vanesa/index.qmd
+    url: https://geobota.github.io/people/caro-sanchez_angy-vanesa/
   - name: "Lucas Cardoso Marinho"
     email: lc.marinho@ufma.br
     affiliation: "Universidade Federal do Maranhão"
+    affiliation-url: https://sigaa.ufma.br/sigaa/public/docente/portal.jsf?siape=3155128
     orcid: 0000-0003-1263-3414
+    url: https://gptaxa.wixsite.com/taxa
   - name: "Manuel Luján"
     email: m.lujan@kew.org
     affiliation: "Kew Royal Botanic Gardens, Londres, Reino Unido"
+    affiliation-url: https://www.kew.org/science/our-science/people/manuel-lujan-anzola
     orcid: 0000-0001-6822-7269
+    url: https://plantropical.weebly.com
   - name: "Jose Miguel Rojas-Villa"
     email: miguel.rojas4@udea.edu.co
     affiliation:
       - ref: udea
     orcid: 0000-0002-6656-9932
-    # url: /people/rojas-villa_jose-miguel/index.qmd
+    url: https://geobota.github.io/people/rojas-villa_jose-miguel/
   - name: "Fernando Alveiro Alzate-Guarin"
     email: alveiro.alzate@udea.edu.co
     affiliation:
       - ref: udea
     orcid: 0000-0002-4916-8897
-    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+    url: https://geobota.github.io/people/alzate-guarin_fernando-alveiro/
 date: "2024-11-11"
 
 categories:
@@ -51,19 +56,24 @@ As espécies da família Clusiaceae são caracterizadas por apresentarem lâmina
 
 **Apoio:** Minciencias, Colombia.
 
-## Bibliografia
-
-::: {#refs}
-:::
-
 ## PDF
 
 ```{=html}
-<object data="CNBot_clusiaceae_tricomas.pdf" type="application/pdf" width="800" height="1100">
+<object data="CNBot_clusiaceae_tricomas.pdf" type="application/pdf" width="800" height="1070">
     <p>Parece que você não tem um plug-in de PDF para esse navegador.
     Não há problema… você pode <a href="CNBot_clusiaceae_tricomas.pdf">clicar aqui 
     para fazer o download do arquivo PDF.</a></p>
 </object>
 ```
 
-<!-- ## Citación -->
+## Bibliografia
+
+::: {#refs}
+:::
+
+## Citação
+
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Caro-S&#xE1;nchez, A. V., Marinho, L. C., Rojas-Villa, J. M., Luj&#xE1;n, M., Id&#xE1;rraga-Piedrah&#xED;ta, &#xC1;., &amp; Alzate-Guarin, F. A. (2024). Indumento em Clusiaceae: novos relatos em l&#xE2;minas foliares e sua utilidade taxon&#xF4;mica. Em <i>74&#xB0; Congresso Nacional de Bot&#xE2;nica, Bot&#xE2;nica Brasileira Celebrando a Diversidade, 10 a 15 de novembro de 2024, Bras&#xED;lia (DF), Livro de Resumos</i> (p. 475&#x2013;476). Universidade de Bras&#xED;lia. https://74cnbot.softaliza.com.br</div>
+</div>
